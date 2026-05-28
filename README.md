@@ -285,83 +285,17 @@ Your portfolio matters more than certificates.
 
 ---
 
-# 8-Week FDE Learning Plan
-
-## Week 1 — Rebuild on Frontier APIs
-
-* Build an AI app using OpenAI/Claude/Gemini
-* Add tool use
-* Add prompt caching
-* Implement structured outputs
+| Category                 | Week 1                                                                                                                     | Week 2                                                                     | Week 3                                                                                           | Week 4                                                                                 |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Focus Area**           | Rebuild on Frontier APIs                                                                                                   | Ship an MCP Server                                                         | Agent Skills                                                                                     | Eval Harness                                                                           |
+| **Tasks / Deliverables** | Build an AI app using OpenAI / Claude / Gemini <br> Add tool use <br> Add prompt caching <br> Implement structured outputs | Build an MCP server <br> Support stdio + HTTP <br> Open-source the project | Study reference skills <br> Build a custom reusable skill <br> Integrate with MCP infrastructure | Add evaluation framework <br> Create golden datasets <br> Measure baseline performance |
 
 ---
 
-## Week 2 — Ship an MCP Server
-
-* Build an MCP server
-* Support stdio + HTTP
-* Open-source the project
-
----
-
-## Week 3 — Agent Skills
-
-* Study reference skills
-* Build a custom reusable skill
-* Integrate with MCP infrastructure
-
----
-
-## Week 4 — Eval Harness
-
-* Add evaluation framework
-* Create golden datasets
-* Measure baseline performance
-
----
-
-## Week 5 — Multi-Agent Systems
-
-* Create orchestrator agents
-* Add sub-agents
-* Compare against single-agent systems
-
----
-
-## Week 6 — Deployment Surfaces
-
-Deploy systems using:
-
-* AWS Bedrock
-* Google Vertex AI
-
-Document:
-
-* Security model
-* Data flow
-* Architecture diagrams
-
----
-
-## Week 7 — Vertical Depth
-
-Build a domain-specific solution.
-
-Examples:
-
-* AI Legal Assistant
-* Healthcare Copilot
-* Financial Analyst Agent
-* Customer Support Agent
-
----
-
-## Week 8 — Polish & Case Studies
-
-* Improve documentation
-* Record demos
-* Write architecture explanations
-* Practice project walkthroughs
+| Category                 | Week 5                                                                                   | Week 6                                                                                                         | Week 7                                                                 | Week 8                                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Focus Area**           | Multi-Agent Systems                                                                      | Deployment Surfaces                                                                                            | Vertical Depth                                                         | Polish & Case Studies                                                                                   |
+| **Tasks / Deliverables** | Create orchestrator agents <br> Add sub-agents <br> Compare against single-agent systems | Deploy using AWS Bedrock & Google Vertex AI <br> Document security model, data flow, and architecture diagrams | Build a domain-specific solution (Legal, Healthcare, Finance, Support) | Improve documentation <br> Record demos <br> Write architecture explanations <br> Practice walkthroughs |
 
 ---
 
